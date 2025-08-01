@@ -1,6 +1,4 @@
-"""
-BOOLEANS
-"""
+""" BOOLEANS """
 
 # PRÁCTICA 1
 # Realiza una comparación que arroje como resultado un booleano y almacena el resultado en una variable llamada prueba.
