@@ -21,6 +21,7 @@ elif num1 == num2:
     print(f"{num1} es igual que {num2}")
 
 
+print()
 #...........................................................................................
 # PRÁCTICA 2
 # Las leyes de un país establecen que un adulto puede conducir si tiene licencia para hacerlo, y para optar por una licencia para conducir, debe tener 18 años o más.
@@ -41,6 +42,7 @@ elif age < 18:
     print("No puedes conducir aún. Debes tener 18 años y contar con una licencia")
 
 
+print()
 #...........................................................................................
 # PRÁCTICA 3
 # Para acceder a un determinado puesto de trabajo, el candidato debe ser capaz de programar en Python y tener conocimientos de inglés.

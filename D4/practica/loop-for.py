@@ -8,6 +8,8 @@ alumnos_clase = ["María", "José", "Carlos", "Martina", "Isabel", "Tomás", "Da
 for alumno in alumnos_clase:
     print(f"Hola {alumno}")
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 2
 # Dada la siguiente lista de números, realiza la suma de todos los números utilizando loops For y almacena el resultado de la suma en una variable llamada suma_numeros:
@@ -21,6 +23,8 @@ for numero in lista_numeros:
 
 print(suma_numeros)
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 3
 # Dada la siguiente lista de números, realiza la suma de todos los números pares e impares por separado en las variables suma_pares y suma_impares respectivamente:

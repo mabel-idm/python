@@ -14,6 +14,8 @@ num3 = 48
 mi_bool = (num1 > num2) and (num1 < num3)
 print(mi_bool)
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 2
 # Crea tres variables (num1, num2 y num3):
@@ -29,6 +31,8 @@ num3 = 48
 mi_bool = (num1 > num2) or (num1 < num3)
 print(mi_bool)
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 3
 # Verifica si las palabras almacenadas en las siguientes variables:

@@ -9,6 +9,8 @@ num2 = 17
 mi_bool = num1  >= num2
 print(mi_bool) 
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 2
 # Crea dos variables (num1 y num2):
@@ -22,6 +24,8 @@ num2 = 5
 mi_bool = num1 == num2
 print(mi_bool)
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 3
 # Crea dos variables (num1 y num2):

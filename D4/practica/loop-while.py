@@ -8,7 +8,9 @@ contador = 10
 while contador >= 0:
     print(contador) # Se imprime el 10 antes de iniciar el Loop
     contador = contador -1
-    
+
+
+print()    
 #...........................................................................................
 # PRÁCTICA 2
 # Crea un Loop While que reste de uno en uno los números desde el 50 al 0 (ambos números incluidos) con las siguientes condiciones:
@@ -22,6 +24,8 @@ while contador >= 0:
         print(contador)
     contador = contador -1
 
+
+print()
 #...........................................................................................
 # PRÁCTICA 3
 # Crea un loop For a lo largo de la siguiente lista de números, imprimiendo en pantalla cada uno de sus elementos, e interrumpe el flujo en el momento que encuentres un valor negativo:
